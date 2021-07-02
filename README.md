@@ -1,4 +1,4 @@
-## List of finished courses at Uppsala University in alphabeticall order
+## List of finished courses at Uppsala University in alphabetical order
 Advanced Probabilistic Machine Learning (1RT705)  
 Algebra and Geometry (1MA090)  
 Analogue Electronics (1TE725)   
